@@ -1,3 +1,7 @@
+hi
+hello
+welcome
+bye
 
 test file
 hi
